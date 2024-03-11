@@ -6,7 +6,7 @@
 -  I’m currently learning NoSQL and Reddis  
   
 
-- You can contact me at [kirillpadurin@gmail.com](mailto:kirillpadurin@gmail.com), [![Telegram Badge](https://img.shields.io/badge/-kirill_padurin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kirill_padurin) 
+- You can contact me at [kirillpadurin@gmail.com](mailto:kirillpadurin@gmail.com), [![Telegram Badge](https://img.shields.io/badge/-kirill_padurin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/padurin_kirill) 
   
 
 <br/>  
