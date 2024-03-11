@@ -4,10 +4,10 @@
 -  I’m currently working on [cloud-storage](https://github.com/rishavanand/github-profilinator)  
   
 
--  I’m currently learning NoSQ and Reddis  
+-  I’m currently learning NoSQL and Reddis  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- You can contact me at [kirillpadurin@gmail.com](mailto:kirillpadurin@gmail.com), [@kirill_padurin] (https://t.me/padurin_kirill)
   
 
 <br/>  
