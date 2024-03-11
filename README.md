@@ -1,5 +1,4 @@
-### <div align="center">I'm Kirill Padurin, a Back-end developer 👨‍💻 </div>  
-  
+## Hey 👋, I'm Kirill Padurin, a back-end developer!    
 
 -  I’m currently working on [cloud-storage](https://github.com/rishavanand/github-profilinator)  
   
@@ -7,7 +6,7 @@
 -  I’m currently learning NoSQL and Reddis  
   
 
-- You can contact me at [kirillpadurin@gmail.com](mailto:kirillpadurin@gmail.com), [@kirill_padurin](https://t.me/padurin_kirill)
+- You can contact me at [kirillpadurin@gmail.com](mailto:kirillpadurin@gmail.com), [![Telegram Badge](https://img.shields.io/badge/-kirill_padurin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kirill_padurin) 
   
 
 <br/>  
@@ -54,7 +53,17 @@
 <br/>  
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirushakrutoi&hide_border=true&layout=compact" align="left" />  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kirushakrutoi&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirushakrutoi&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
 
 <br/>  
 <!--
