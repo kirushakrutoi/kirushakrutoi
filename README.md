@@ -53,13 +53,6 @@
 
 <br/>  
 
-
-## Connect with me  
-  
-
-<br/>  
-
-
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirushakrutoi&hide_border=true&layout=compact" align="left" />  
 
