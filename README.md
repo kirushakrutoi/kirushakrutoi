@@ -7,7 +7,7 @@
 -  I’m currently learning NoSQL and Reddis  
   
 
-- You can contact me at [kirillpadurin@gmail.com](mailto:kirillpadurin@gmail.com), [@kirill_padurin] (https://t.me/padurin_kirill)
+- You can contact me at [kirillpadurin@gmail.com](mailto:kirillpadurin@gmail.com), [@kirill_padurin](https://t.me/padurin_kirill)
   
 
 <br/>  
