@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Kirill Padurin, a back-end developer!    
 
--  I’m currently working on [cloud-storage](https://github.com/rishavanand/github-profilinator)  
+-  I’m currently working on [cloud-storage](https://github.com/kirushakrutoi/cloud-storage)  
   
 
 -  I’m currently learning NoSQL and Reddis  
