@@ -1,18 +1,31 @@
-## Hey 👋, I'm Kirill Padurin, a back-end developer!    
+# Кирилл Падурин
 
--  I’m currently working on [cloud-storage](https://github.com/kirushakrutoi/cloud-storage)  
+Java Backend Developer
+
+👋 Привествую вас на своем GitHub профиле!  
+
+## About Me
+
+- Занимаюсь разработкой уже три года
+
+- Учился в Школе 21 от сбера
+
+- Закончил 2 курс института КФУ ИВМИИТ направления информационные системы и технологии
+
+- Изучаю Java уже год самостоятельно.
+
+- Работаю над проектом облачного хранилища данных [cloud-storage](https://github.com/kirushakrutoi/cloud-storage)  
+  
+- Сейчас изучаю NoSQL DB и Reddis  
   
 
--  I’m currently learning NoSQL and Reddis  
-  
-
-- You can contact me at [kirillpadurin@gmail.com](mailto:kirillpadurin@gmail.com), [![Telegram Badge](https://img.shields.io/badge/-kirill_padurin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/padurin_kirill) 
+- Вы можете связаться со мной [kirillpadurin@gmail.com](mailto:kirillpadurin@gmail.com), [![Telegram Badge](https://img.shields.io/badge/-kirill_padurin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/padurin_kirill) 
   
 
 <br/>  
 
 
-## My Skill Set  
+## Технологический стек 
 <table><tr><td valign="top" width="33%">
 
 
@@ -53,13 +66,9 @@
 <br/>  
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kirushakrutoi&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirushakrutoi&hide_border=true&layout=compact" align="left" style="width: 100%" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirushakrutoi&layout=compact&theme=transparent)
 
 </td></tr></table>  
 
