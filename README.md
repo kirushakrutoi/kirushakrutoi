@@ -16,7 +16,7 @@ Java Backend Developer
 
 - Работаю над проектом облачного хранилища данных [cloud-storage](https://github.com/kirushakrutoi/cloud-storage)  
   
-- Сейчас изучаю NoSQL DB и Reddis  
+- Сейчас изучаю Reddis, S3 minio  
   
 
 - Вы можете связаться со мной [kirillpadurin@gmail.com](mailto:kirillpadurin@gmail.com), [![Telegram Badge](https://img.shields.io/badge/-kirill_padurin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/padurin_kirill) 
